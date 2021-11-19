@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ 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 }}
-          GIST_ID: ${{ 9d946292dc3db5bce4d7f01ca49fcf5b }}
+          GIST_ID: ${{ https://gist.github.com/yeniful/9d946292dc3db5bce4d7f01ca49fcf5b }}
           TIMEZONE: Asia/Seoul
